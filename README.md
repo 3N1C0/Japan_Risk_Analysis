@@ -31,4 +31,6 @@ The app reads its data files from the working directory, so run the command from
 
 ## Data sources
 
-Population figures come from the Statistics Bureau of Japan (census). Flood and landslide figures are from the national disaster records included in `flood.xlsx`.
+- Prefecture population and area (2015): [Kaggle, Japan population data](https://www.kaggle.com/datasets/jd1325/japan-population-data)
+- Natural disaster figures (2019): [Statistics Bureau of Japan, Statistical Yearbook](https://www.stat.go.jp/english/data/nenkan/68nenkan/1431-29.html)
+- Prefecture boundaries: [Kaggle, geographic data of Japan](https://www.kaggle.com/datasets/zhanhaoh/geographic-data-of-japan)
